@@ -1,2 +1,3 @@
-# Jack-and-Nick-Whiteboard
-We couldn't find a whiteboard so this is what it has come to
+# Ideas
+## Nick's Ideas
+- We make a website that you can log into and 
