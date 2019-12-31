@@ -15,7 +15,8 @@ If i made still mistakes in this doccument feel free to edit or make comments in
 
 ## Report Progress to the goal here:
 Nick
-- Made more edits to 
+- Made more edits to readme
+- Added "issues" which has just basically been a new way to add goals
 
 Jack
 - None
