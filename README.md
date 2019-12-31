@@ -81,7 +81,9 @@ Rambling:
 - Sports groups
 - Ted talk viewinig parties
 - Super smash bros tips and tricks
-- Share and discuss Academic that you are proud of. 
+- Share and discuss Academic work that you are proud of(can only do because of intimacy of group/ size of group). 
+- Video game and fantasy viewing parties
+- DnD Campaigns
 
 ## Richard has shown interest in the project float involving him by richard and jack. Need a MVP before though, to establish precedent
 ## Start working on learning markdown better, so that these doccuments can have more features
