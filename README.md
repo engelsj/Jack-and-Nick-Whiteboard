@@ -1,5 +1,8 @@
 # Flask Website
 
+If i made still mistakes in this doccument feel free to edit or make comments in in here. I am super open to suggestions. If I am writing too much tell me. If I am writing to little, tell me. If I need to more precisise, tell me.
+
+
 ## Goals for tonight
 1. We start by replciating this tutorial [Flask Blog](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
 - This is the github repository: [Repo](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog). If we understand what he is doing we should just deploy and modify this. It might be a good idea to get working as fast as possible. We might need to race to an MVP
@@ -8,13 +11,14 @@
 2. We should be learning how flask works and how this specific tutorial is working, so we should **DOCUMENT** the process by which we are doing these things and clearly explain what everything we do does in some public document. Eventually we will pollish our doccumenation and make it the first thing we post on the website
  * I think we should document these processes at the bottom of this page in the next section labeled report progress
 3. Nick needs to learn how branches work, so that he doesn't fuck anything up later
-4. Nick needs to sort out the workflow and write out a plan in this documen 
+4. Nick needs to sort out the workflow and write out a plan in this document and for making edits to the website
 
 ## Report Progress to the goal here:
 Nick
--None
+- Made more edits to 
+
 Jack
--None
+- None
 
 ## Possible next steps
 We need to find a method of deployment next. I would reccomend these depending on ultimate deployment:
@@ -41,8 +45,41 @@ Being able to **Add dynamic code** to demonstrate what we are doing is a stretch
 
 With enough time I would like this to be visible online so that **employers can see our collaborative enviroment** and **everything we have learned** working in that enviroment
 
+Rambling: 
+**SUPER STRETCH GOALS** ML, and Natural language processing for activies, sleep shedule and activity dictaiton. *ML powered social engine*. In other words i would like to hook up my echo dot to the website
+
 ## Ultimately this is a learning experience
 1. We should use this as an opportunity to **explore** new technology. We should not just try to use stuff like AWS because it is the best, but because it is something new.
 
 2. I hope that this is a basic way for two peope to log in and post what they are doing every day so that people stay commited to learning and working on projects
 
+3. Being able to share with a more intimate group means that we will share more stuff and more interesting things. I would like this to be an opprotunity to do that.
+
+# Useful links
+- **Hosting on netlify**: https://medium.com/@francescaguiducci/how-to-build-a-simple-personal-website-with-python-flask-and-netlify-d800c97c283d
+- Which editor to use: https://www.codementor.io/@mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
+
+# I don't think that what is below this line is super useful. But I would like it to brainstorm. 
+-------------------------------------------------------------------------
+# Prototype of post that could go on the website
+
+## Activities
+- (need to fill with ideas and content here) Nothing so far 
+## What I did today
+- Easy time, date, location input (think voice assistant **stretch goal**)
+### Example
+- Today I woke up at 4:00 went for a walk to playland pier and walked back. I listened to music while walking.
+- I went to get cofee at 5:15 at starbucks and then went to the ymca gym at 5:30. I erged and biked while there for 45mins and walked home
+- I made breakfast using a bunch of onions, tomatos, water, salt, garlic, and a little beef. It tasted pretty good
+
+## Sleep schedule elegant display
+- If we can I would like to integrate a sleep scheduler with the activities portion of the website for deep personal importance
+
+## Unrelated Activites Brainstorming (prototype of kind of post on website)
+- Sports groups
+- Ted talk viewinig parties
+- Super smash bros tips and tricks
+- Share and discuss Academic that you are proud of. 
+
+## Richard has shown interest in the project float involving him by richard and jack. Need a MVP before though, to establish precedent
+## Start working on learning markdown better, so that these doccuments can have more features
