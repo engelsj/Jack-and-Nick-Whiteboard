@@ -6,6 +6,8 @@ If i made still mistakes in this doccument feel free to edit or make comments in
 ## Goals for tonight
 1. We start by replciating this tutorial [Flask Blog](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
 - If we understand what he is doing we should just deploy and modify this github repository: [Repo](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog). It might be a good idea to get working as fast as possible. We might need to race to an MVP
+- We should doccument the process he goes through in that video. Here in this markdown doccument. We should write it elsewhere, but ultimately put it in `README.md` and link it through out
+
 - If we find a better way to learn flask we can just copy the github repository and reverse engineer it to suit our needs.
  * This looks like it would be a viable alternative if we are prepared to sit down and just read a lot [Flask guide](http://flask.palletsprojects.com/en/1.1.x/)
 2. We should be learning how flask works and how this specific tutorial is working, so we should **DOCUMENT** the process by which we are doing these things and clearly explain what everything we do does in some public document. Eventually we will pollish our doccumenation and make it the first thing we post on the website
