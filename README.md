@@ -92,3 +92,8 @@ Rambling:
 ## Start working on learning markdown better, so that these doccuments can have more features
 - look at this guide https://guides.github.com/features/mastering-markdown/
 - make note of how we can link topics as I this document can get really big 
+
+## Things Jack showed me that I need to learn and understand
+- https://github.com/PyGithub/PyGithub
+- Look at jack's projects and see how we can use them and his expertise to make this project better. Should try to use "@" symbol here later
+
