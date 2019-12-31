@@ -30,6 +30,7 @@ You are welcome to suggest other things. I would love to learn how to AWS, and I
 
 ## What to do if we don't meet the goal by our deadline or do not think we can make the goals by the deadline(12/31/19)
 1. We need to decide if we are doing to give it another day or if we should break the previous goals into smaller parts in consideration to what we have learned by making an attempt at our goals.
+
 2. If we decide to break the goals into smaller goals we should
  * Get something running on our computer and learn how to reliably create a flask file that does this and understand why that works
  * Understand {% {{ coding what it is and what it does. Document the process
@@ -41,7 +42,7 @@ At the most **basic level** I want to have a website that lets me keep track of 
 
 Being able to **Log In** and **Create Accounts** is goal that will make this website useable by other people. We will be able to share the website with other people who also want to share what they are doing everyday
 
-Being able to **Add dynamic code** to demonstrate what we are doing is a stretch goal
+Being able to **Add dynamic code** to demonstrate what we are doing is a stretch goal. This means being able to type in markdown when making posts on the website. (**Note** We should find a medium tutorial for adding this to flask, one certainly exists)
 
 With enough time I would like this to be visible online so that **employers can see our collaborative enviroment** and **everything we have learned** working in that enviroment
 
