@@ -63,7 +63,8 @@ Rambling:
 - Guide on how to use kan that just looks a little interesting: [kanban](https://medium.com/the-super-serious-lab/beginners-guide-to-kanban-6d1ed3babe86)
 - Github profile link didn't look closely. [Here](https://hackernoon.com/how-to-optimize-your-github-profile-9540f338b2c9)
 - GH markdown guide, I reference elsewhere. [Here](https://guides.github.com/features/mastering-markdown/)
-
+- **Myth of the genius coder** this is the work philosiphy that is good for working on these kinds of projects. It is [Here](https://www.youtube.com/watch?v=0SARbwvhupQ&t=0s) to remind us.
+- How to speak publically MIT video. This that this is useful, watched while working need to continue. [Here](https://www.youtube.com/watch?v=Unzc731iCUY)
 # I don't think that what is below this line is super useful. But I would like it to brainstorm. 
 -------------------------------------------------------------------------
 # Prototype of post that could go on the website
