@@ -67,6 +67,8 @@ Rambling:
 - GH markdown guide, I reference elsewhere. [Here](https://guides.github.com/features/mastering-markdown/)
 - **Myth of the genius coder** this is the work philosiphy that is good for working on these kinds of projects. It is [Here](https://www.youtube.com/watch?v=0SARbwvhupQ&t=0s) to remind us.
 - How to speak publically MIT video. This that this is useful, watched while working need to continue. [Here](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [**Hacker New**](https://news.ycombinator.com/) Look out for stuff we could use
+- [Opensource Encrypt](https://github.com/FiloSottile/age)
 # I don't think that what is below this line is super useful. But I would like it to brainstorm. 
 -------------------------------------------------------------------------
 # Prototype of post that could go on the website
@@ -85,13 +87,14 @@ Rambling:
 
 ## Unrelated Activites Brainstorming (prototype of kind of post on website)
 - Sports groups
-- Ted talk viewinig parties
+- Ted talk viewinig parties https://www.ted.com/
 - Super smash bros tips and tricks
 - Share and discuss Academic work that you are proud of(can only do because of intimacy of group/ size of group). 
 - Video game and fantasy viewing parties
 - DnD Campaigns
 
 ## Richard has shown interest in the project float involving him by richard and jack. Need a MVP before though, to establish precedent
+- Also consider Jake or tegan, but be more weary
 ## Start working on learning markdown better, so that these doccuments can have more features
 - look at this guide https://guides.github.com/features/mastering-markdown/
 - make note of how we can link topics as I this document can get really big 
