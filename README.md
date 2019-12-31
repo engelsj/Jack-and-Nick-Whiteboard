@@ -83,3 +83,4 @@ Rambling:
 
 ## Richard has shown interest in the project float involving him by richard and jack. Need a MVP before though, to establish precedent
 ## Start working on learning markdown better, so that these doccuments can have more features
+- make note of how we can link topics as I this document can get really big 
