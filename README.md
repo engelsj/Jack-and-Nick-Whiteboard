@@ -5,7 +5,7 @@ If i made still mistakes in this doccument feel free to edit or make comments in
 
 ## Goals for tonight
 1. We start by replciating this tutorial [Flask Blog](https://www.youtube.com/watch?v=MwZwr5Tvyxo)
-- This is the github repository: [Repo](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog). If we understand what he is doing we should just deploy and modify this. It might be a good idea to get working as fast as possible. We might need to race to an MVP
+- If we understand what he is doing we should just deploy and modify this github repository: [Repo](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python/Flask_Blog). It might be a good idea to get working as fast as possible. We might need to race to an MVP
 - If we find a better way to learn flask we can just copy the github repository and reverse engineer it to suit our needs.
  * This looks like it would be a viable alternative if we are prepared to sit down and just read a lot [Flask guide](http://flask.palletsprojects.com/en/1.1.x/)
 2. We should be learning how flask works and how this specific tutorial is working, so we should **DOCUMENT** the process by which we are doing these things and clearly explain what everything we do does in some public document. Eventually we will pollish our doccumenation and make it the first thing we post on the website
@@ -61,6 +61,8 @@ Rambling:
 - **Hosting on netlify**: https://medium.com/@francescaguiducci/how-to-build-a-simple-personal-website-with-python-flask-and-netlify-d800c97c283d
 - Which editor to use: https://www.codementor.io/@mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
 - Guide on how to use kan that just looks a little interesting: [kanban](https://medium.com/the-super-serious-lab/beginners-guide-to-kanban-6d1ed3babe86)
+- Github profile link didn't look closely. [Here](https://hackernoon.com/how-to-optimize-your-github-profile-9540f338b2c9)
+- GH markdown guide, I reference elsewhere. [Here](https://guides.github.com/features/mastering-markdown/)
 
 # I don't think that what is below this line is super useful. But I would like it to brainstorm. 
 -------------------------------------------------------------------------
@@ -88,4 +90,5 @@ Rambling:
 
 ## Richard has shown interest in the project float involving him by richard and jack. Need a MVP before though, to establish precedent
 ## Start working on learning markdown better, so that these doccuments can have more features
+- look at this guide https://guides.github.com/features/mastering-markdown/
 - make note of how we can link topics as I this document can get really big 
