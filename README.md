@@ -60,6 +60,7 @@ Rambling:
 # Useful links
 - **Hosting on netlify**: https://medium.com/@francescaguiducci/how-to-build-a-simple-personal-website-with-python-flask-and-netlify-d800c97c283d
 - Which editor to use: https://www.codementor.io/@mattgoldspink/best-text-editor-atom-sublime-vim-visual-studio-code-du10872i7
+- Guide on how to use kan that just looks a little interesting: [kanban](https://medium.com/the-super-serious-lab/beginners-guide-to-kanban-6d1ed3babe86)
 
 # I don't think that what is below this line is super useful. But I would like it to brainstorm. 
 -------------------------------------------------------------------------
