@@ -72,10 +72,10 @@ Rambling:
 - [Python ref work through](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/)
 - R stuff
   * [R guide](https://bookdown.org/rdpeng/RProgDA/the-r-programming-environment.html)
-  *
+- [Hypecycle](https://en.wikipedia.org/wiki/Hype_cycle) and [where we are](https://qph.fs.quoracdn.net/main-qimg-acae58531577b639c744580d19ecb081.webp)
 - Jobs
   * [Ted ability vs exp](https://www.ted.com/talks/jason_shen_looking_for_a_job_highlight_your_ability_not_your_experience/up-next)
-  * [
+  * [marketing](https://github.com/LisaDziuba/Marketing-for-Engineers)
 # I don't think that what is below this line is super useful. But I would like it to brainstorm. 
 -------------------------------------------------------------------------
 # Prototype of post that could go on the website
@@ -125,3 +125,4 @@ Rambling:
 ## Sublime Python Shortcuts
 [go to Keyboard shortcuts on this page](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
 
+[tips and tricks](https://www.hongkiat.com/blog/sublime-text-tips/)
