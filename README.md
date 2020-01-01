@@ -69,6 +69,13 @@ Rambling:
 - How to speak publically MIT video. This that this is useful, watched while working need to continue. [Here](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [**Hacker New**](https://news.ycombinator.com/) Look out for stuff we could use
 - [Opensource Encrypt](https://github.com/FiloSottile/age)
+- [Python ref work through](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/)
+- R stuff
+  * [R guide](https://bookdown.org/rdpeng/RProgDA/the-r-programming-environment.html)
+  *
+- Jobs
+  * [Ted ability vs exp](https://www.ted.com/talks/jason_shen_looking_for_a_job_highlight_your_ability_not_your_experience/up-next)
+  * [
 # I don't think that what is below this line is super useful. But I would like it to brainstorm. 
 -------------------------------------------------------------------------
 # Prototype of post that could go on the website
@@ -99,7 +106,22 @@ Rambling:
 - look at this guide https://guides.github.com/features/mastering-markdown/
 - make note of how we can link topics as I this document can get really big 
 
+## Look back at datacamp assignments
+- [here](https://www.datacamp.com/enterprise/old-gov-1005-fall-2019/my-assignments0
+
+## Sublime text plugins
+- Installed every plugin [here](https://medium.com/issuehunt/10-best-sublime-text-plugins-for-developers-433bac5a65e8) I should figure out how to use all of them
+- Installed some from [here](https://micropyramid.com/blog/ten-sublime-plugins-useful-for-your-daily-pythondjango-development/)
+  * Should find way to check all installed packages so I can identify what packages I need to learn better
+- Should start working on this MD file in sublime text and pushing to git, add to tasks.
+
+# We should comment our code as a test for our understanding
+
+
 ## Things Jack showed me that I need to learn and understand
 - https://github.com/PyGithub/PyGithub
 - Look at jack's projects and see how we can use them and his expertise to make this project better. Should try to use "@" symbol here later
+
+## Sublime Python Shortcuts
+[go to Keyboard shortcuts on this page](https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/)
 
